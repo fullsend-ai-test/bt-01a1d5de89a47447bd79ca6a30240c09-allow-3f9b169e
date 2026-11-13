@@ -3,4 +3,4 @@
 #
 # This file configures fullsend for per-repo installation mode.
 # See https://fullsend.sh/docs/guides/infrastructure/layered-config-reference
-kill_switch: true
+kill_switch: false
